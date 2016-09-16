@@ -1,0 +1,14 @@
+{
+  "name": "koa-parse-bearer-token",
+  "version": "0.1.0",
+  "description": "Koa middleware for parsing bearer token in http request header",
+  "main": "lib/koa-parse-bearer-token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Spencer Zhang\" <sepmein@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^7.1.9"
+  }
+}
